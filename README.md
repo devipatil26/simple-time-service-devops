@@ -199,9 +199,10 @@ AWS Secret Access Key: <your-secret-key>
 Default region name: ap-south-1
 Default output format: json
 
-Verify Authentication
+Verify Authentication 
 aws sts get-caller-identity
 Expected output - json
+
 \-----------------------------------------------------------------------------------------------------------------------------------------
 Security \& Best Practices
 
